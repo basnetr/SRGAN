@@ -25,7 +25,7 @@ The training parameters for the codes are:
 --> Validation is done every 250 iterations (can be changed).
 --> The model is saved every 1000 iterations which can be changed.
 --> To load a model at certain iteration, the load_model variable can be assigned the value of the number of iterations the training needs to be resumed from (given that the model at that iteration was saved before)
---> If you want to download a pretrained model (for 30,000 iterations) and test, you can download it from the link https://drive.google.com/open?id=1sZCe0QLYYicJjZnMULOvEBZJWWHriydO
+--> If you want to download a pretrained model (for 30,000 iterations), you can download it from the link https://drive.google.com/drive/folders/1wsO7c9n_X-6zpVhI1WlAlFn3I3qpYbOU?usp=sharing
 
 [**Note: The code initially trains the Generator (also known as SRResNet for 20,000 iterations and then trains tha SRGAN network for the rest of the iterations)]
 
